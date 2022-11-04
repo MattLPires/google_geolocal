@@ -2,7 +2,7 @@ const restify = require("restify");
 //const errs = require('restify-errors');
 
 const googleMapsClient = require('@google/maps').createClient({
-    key:'AIzaSyCpwuQ_Nu8pXlNi-yhdOdyjMfmYKu1jbl4',
+    key:'key api',
     Promise: Promise
 });
 
